@@ -1,0 +1,6 @@
+{
+  "name": "Era Care Egypt — Skincare, Haircare & Natural Cosmetics",
+  "description": "Discover Era Care & Tersus skin-friendly cosmetics, natural oils, haircare, and body care crafted in Egypt. Browse 66+ products, explore 39 branches across 20 governorates, and shop online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
