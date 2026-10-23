@@ -157,7 +157,7 @@ export function buildRouteUrl(route: RouteState): string {
  */
 export function formatPageCanonicalUrl(route: RouteState): string {
   const path = buildRouteUrl(route);
-  return `https://eracare-eg.com${path === '/' ? '/' : path}`;
+  return `https://az-era-care-cosmetics.pages.dev${path === '/' ? '/' : path}`;
 }
 
 /**
