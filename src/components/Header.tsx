@@ -242,7 +242,7 @@ export const Header: React.FC<HeaderProps> = ({
                 ? 'الوضع الفاتح عالي التباين / High-Contrast White Mode'
                 : 'الوضع الداكن / Dark Mode'
             }
-            className={`p-2 rounded-lg border transition-colors cursor-pointer ${
+            className={`hidden sm:inline-flex p-2 rounded-lg border transition-colors cursor-pointer ${
               darkMode
                 ? 'border-[#383330] bg-[#1D1A19] text-[#F4A29D] hover:bg-[#282422]'
                 : 'border-[#D5CEC6] bg-white text-[#181615] hover:border-[#9E2432] hover:text-[#9E2432]'
